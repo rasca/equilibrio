@@ -28,3 +28,9 @@ Para esto la idea es usar ESPs (microcontroladores) para leer la posición del
 Sube y Baja (con un acelerómetro/giróscopo) y enviar la medición a otros ESPs
 que van a prender/apagar o dimerizar los dos tipos de luces.
 
+## TODO
+
+[x] Connect 2+ ESP32 via Wifi
+[x] Dimm regular lights
+[ ] Low pass filter for dimming
+[ ] Put everything into boxes
